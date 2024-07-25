@@ -2,7 +2,7 @@
 <br>I'm a Computer Vision Enginee.<br>  
 ![robot](./img/jiqiren.svg)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=anxiangsir.anxiangsir)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=daixiangzi.daixiangzi)
 [![](https://img.shields.io/github/followers/daixiangzi?color=27da6b&logo=Handshake)](https://github.com/daixiangzi?tab=followers)
 <p align="left">
 <br>
