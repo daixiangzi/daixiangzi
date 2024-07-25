@@ -1,11 +1,14 @@
 ## Hi there👋
+<br>I'm a Computer Vision Enginee.<br>  
 ![robot](./img/jiqiren.svg)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anxiangsir.anxiangsir)
 [![](https://img.shields.io/github/followers/daixiangzi?color=27da6b&logo=Handshake)](https://github.com/daixiangzi?tab=followers)
 <p align="left">
 <br>
-<samp>
+
+## 🔥 News
+* 2024.07.25 🎉 Congratulations! our paper on Vision Pre-training Model, [Multi-label Cluster Discrimination for Visual Representation Learning](https://arxiv.org/abs/2407.17331), have been accepted by ECCV 2024.
 <!--
 **daixiangzi/daixiangzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
