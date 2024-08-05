@@ -8,6 +8,7 @@
 <br>
 
 ## 🔥 News
+* 2024.08.05 🎉 Our Tech Report have released about [VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modelin](https://arxiv.org/pdf/2408.01181) on Arxiv.
 * 2024.07.25 🎉 Congratulations! our paper on Vision Pre-training Model, [Multi-label Cluster Discrimination for Visual Representation Learning](https://arxiv.org/abs/2407.17331), have been accepted by ECCV 2024.
 <!--
 **daixiangzi/daixiangzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
