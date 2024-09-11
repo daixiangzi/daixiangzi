@@ -1,5 +1,5 @@
 ## Hi there👋
-<br>I'm a Computer Vision Enginee.<br>  
+<br>I'm a Computer Vision Engineer.<br>  
 ![robot](./img/jiqiren.svg)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=daixiangzi.daixiangzi)
