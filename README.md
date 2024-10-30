@@ -8,8 +8,8 @@
 <br>
 
 ## 📣 📣 📣 Recruitment:
-Long-Term Recruitment Of Algorithm Interns, Main Research areas: <span style="color: #007BFF;">VLM/Model Compression/Visual Pre-training</span>   
-Base: <span style="color: #007BFF;">BeiJing</span>   
+Long-Term Recruitment Of Algorithm Interns, Main Research Areas: **VLM/Model Compression/Visual Pre-training**  
+Base: **BeiJing**   
 Email: xiangzidai@deepglint.com 
 
 ## 🔥 News
