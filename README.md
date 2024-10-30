@@ -7,6 +7,11 @@
 <p align="left">
 <br>
 
+## 📣 📣 📣 Recruitment:
+Long-Term Recruitment Of Algorithm Interns, Main Research areas: <span style="color: #007BFF;">VLM/Model Compression/Visual Pre-training</span>   
+Base: <span style="color: #007BFF;">BeiJing</span>   
+Email: xiangzidai@deepglint.com 
+
 ## 🔥 News
 * 2024.08.05 🎉 Our Tech Report have released about [VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modelin](https://arxiv.org/pdf/2408.01181) on Arxiv.
 * 2024.07.25 🎉 Congratulations! our paper on Vision Pre-training Model, [Unicom_V2:Multi-label Cluster Discrimination for Visual Representation Learning](https://arxiv.org/abs/2407.17331), have been accepted by ECCV 2024.
