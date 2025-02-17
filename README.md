@@ -14,6 +14,7 @@ Base: **BeiJing**
 Email: xiangzidai@deepglint.com 
 
 ## 🔥🔥🔥 News
+* 2024.12.02 🎉 Congratulations! our paper on Vision CLIP Distillation Model, [CLIP-CID: Efficient CLIP Distillation via Cluster-Instance Discrimination](https://arxiv.org/pdf/2408.09441), have been accepted by  AAAI 2025.
 * 2024.10.01 🎉 We release [DeepGlint-AI/llava-mlcd-qwen2.5-7b](https://huggingface.co/DeepGlint-AI/llava-mlcd-qwen2.5-7b) to Hugging Face.
 * 2024.08.05 🎉 Our Tech Report have released about [VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modelin](https://arxiv.org/pdf/2408.01181) on Arxiv.
 * 2024.07.25 🎉 Congratulations! our paper on Vision Pre-training Model, [Unicom_V2:Multi-label Cluster Discrimination for Visual Representation Learning](https://arxiv.org/abs/2407.17331), have been accepted by ECCV 2024.
