@@ -9,9 +9,9 @@
 
 ## 📣 📣 📣 Recruitment:
 Long-Term Recruitment Of Algorithm Interns, Main Research Areas:   
-**VLM/Model Compression/Visual Pre-training**  
+**VLM/Model Compression/Visual Pre-training/RL**  
 Base: **BeiJing**   
-Email: xiangzidai@deepglint.com 
+Email: daixiangzi@baidu.com
 
 ## 🔥🔥🔥 News
 * 2024.12.02 🎉 Congratulations! our paper on Vision CLIP Distillation Model, [CLIP-CID: Efficient CLIP Distillation via Cluster-Instance Discrimination](https://arxiv.org/pdf/2408.09441), have been accepted by  AAAI 2025.
